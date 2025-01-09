@@ -28,3 +28,29 @@ let booleanIsLoggedIn = Boolean(isLoggedIn);
 // object to boolean => Boolean(object)
 // array to boolean => Boolean(array)
 
+
+let value2 = 3;
+let negValue = -value2;
+// console.log(negValue);
+
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2%5);
+
+
+
+let str1 = "Hello ";
+let str2 = "Pratap";
+// console.log(str1+str2);
+
+
+
+let val2= console.log("1"+ 2); //here 1 is string and 2 is integer so js is concate this value where output is not a integer
+console.log(typeof(val2));
+// console.log(1 + "2");
+
+
